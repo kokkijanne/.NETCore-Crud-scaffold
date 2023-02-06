@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "m7A+qpsDt7gg0fGsc3t9joz9VZ4xWNSt8PUC35iEvMkdM8TFeDjZVgNKdygNgIWYR1SMnOC3q4cqaer5z7P1hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\janne\\OneDrive\\Desktop\\InnovationHub\\CRUDTemplate\\ToDo.Configuration\\ToDo.Configuration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\janne\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\janne\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\janne\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\janne\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\janne\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\janne\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\janne\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

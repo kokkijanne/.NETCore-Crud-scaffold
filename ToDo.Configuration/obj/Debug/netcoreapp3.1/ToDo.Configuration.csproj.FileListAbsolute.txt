@@ -1,0 +1,9 @@
+C:\Users\janne\OneDrive\Desktop\InnovationHub\CRUDTemplate\ToDo.Configuration\bin\Debug\netcoreapp3.1\ToDo.Configuration.deps.json
+C:\Users\janne\OneDrive\Desktop\InnovationHub\CRUDTemplate\ToDo.Configuration\bin\Debug\netcoreapp3.1\ToDo.Configuration.dll
+C:\Users\janne\OneDrive\Desktop\InnovationHub\CRUDTemplate\ToDo.Configuration\bin\Debug\netcoreapp3.1\ToDo.Configuration.pdb
+C:\Users\janne\OneDrive\Desktop\InnovationHub\CRUDTemplate\ToDo.Configuration\obj\Debug\netcoreapp3.1\ToDo.Configuration.csprojAssemblyReference.cache
+C:\Users\janne\OneDrive\Desktop\InnovationHub\CRUDTemplate\ToDo.Configuration\obj\Debug\netcoreapp3.1\ToDo.Configuration.AssemblyInfoInputs.cache
+C:\Users\janne\OneDrive\Desktop\InnovationHub\CRUDTemplate\ToDo.Configuration\obj\Debug\netcoreapp3.1\ToDo.Configuration.AssemblyInfo.cs
+C:\Users\janne\OneDrive\Desktop\InnovationHub\CRUDTemplate\ToDo.Configuration\obj\Debug\netcoreapp3.1\ToDo.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\janne\OneDrive\Desktop\InnovationHub\CRUDTemplate\ToDo.Configuration\obj\Debug\netcoreapp3.1\ToDo.Configuration.dll
+C:\Users\janne\OneDrive\Desktop\InnovationHub\CRUDTemplate\ToDo.Configuration\obj\Debug\netcoreapp3.1\ToDo.Configuration.pdb

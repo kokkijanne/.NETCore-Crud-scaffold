@@ -1,0 +1,2 @@
+CRUD .NETcore Template
+

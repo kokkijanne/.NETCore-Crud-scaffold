@@ -1,0 +1,12 @@
+C:\Users\janne\OneDrive\Desktop\InnovationHub\CRUDTemplate\ToDo.Core\bin\Debug\netstandard2.0\ToDo.Core.deps.json
+C:\Users\janne\OneDrive\Desktop\InnovationHub\CRUDTemplate\ToDo.Core\bin\Debug\netstandard2.0\ToDo.Core.dll
+C:\Users\janne\OneDrive\Desktop\InnovationHub\CRUDTemplate\ToDo.Core\bin\Debug\netstandard2.0\ToDo.Core.pdb
+C:\Users\janne\OneDrive\Desktop\InnovationHub\CRUDTemplate\ToDo.Core\bin\Debug\netstandard2.0\ToDo.Data.dll
+C:\Users\janne\OneDrive\Desktop\InnovationHub\CRUDTemplate\ToDo.Core\bin\Debug\netstandard2.0\ToDo.Data.pdb
+C:\Users\janne\OneDrive\Desktop\InnovationHub\CRUDTemplate\ToDo.Core\obj\Debug\netstandard2.0\ToDo.Core.csprojAssemblyReference.cache
+C:\Users\janne\OneDrive\Desktop\InnovationHub\CRUDTemplate\ToDo.Core\obj\Debug\netstandard2.0\ToDo.Core.AssemblyInfoInputs.cache
+C:\Users\janne\OneDrive\Desktop\InnovationHub\CRUDTemplate\ToDo.Core\obj\Debug\netstandard2.0\ToDo.Core.AssemblyInfo.cs
+C:\Users\janne\OneDrive\Desktop\InnovationHub\CRUDTemplate\ToDo.Core\obj\Debug\netstandard2.0\ToDo.Core.csproj.CoreCompileInputs.cache
+C:\Users\janne\OneDrive\Desktop\InnovationHub\CRUDTemplate\ToDo.Core\obj\Debug\netstandard2.0\ToDo.Core.csproj.CopyComplete
+C:\Users\janne\OneDrive\Desktop\InnovationHub\CRUDTemplate\ToDo.Core\obj\Debug\netstandard2.0\ToDo.Core.dll
+C:\Users\janne\OneDrive\Desktop\InnovationHub\CRUDTemplate\ToDo.Core\obj\Debug\netstandard2.0\ToDo.Core.pdb
